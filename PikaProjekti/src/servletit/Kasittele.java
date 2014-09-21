@@ -25,7 +25,7 @@ public class Kasittele extends HttpServlet {
      */
     public Kasittele() {
         super();
-        // TODO Auto-generated constructor stub
+
     }
 
 	/**
