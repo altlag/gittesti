@@ -10,11 +10,14 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
-//minimaalinen servlettidemo ohkekurssille
+//servlettiharjoitus
+//itsenäiseen tutustumiseen 
+//kommentoi koodi
+//tarkistus pareissa (eri pari koodaa ja eri pari tarkastaa)
+//esittele kommentoitu koodi ohjaajalle
 /**
  * Servlet implementation class Kasittele
  * @author altlag
- * @version 0.1 2013
  */
 @WebServlet("/Kasittele")
 public class Kasittele extends HttpServlet {
@@ -25,7 +28,7 @@ public class Kasittele extends HttpServlet {
      */
     public Kasittele() {
         super();
-
+        // TODO Auto-generated constructor stub
     }
 
 	/**
