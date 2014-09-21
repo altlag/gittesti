@@ -13,7 +13,7 @@ import javax.servlet.http.HttpSession;
 //servlettiharjoitus
 //itsenäiseen tutustumiseen 
 //kommentoi koodi
-//tarkistus pareissa
+//tarkistus pareissa (eri pari koodaa ja eri pari tarkastaa)
 //esittele kommentoitu koodi ohjaajalle
 /**
  * Servlet implementation class Kasittele
