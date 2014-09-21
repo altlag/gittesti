@@ -14,6 +14,7 @@ import javax.servlet.http.HttpSession;
 /**
  * Servlet implementation class Kasittele
  * @author altlag
+ * @version 0.1 2013
  */
 @WebServlet("/Kasittele")
 public class Kasittele extends HttpServlet {
