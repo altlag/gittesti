@@ -34,7 +34,7 @@ public class Kasittele extends HttpServlet {
 		HttpSession sessio = request.getSession();
 		RequestDispatcher disp;
 		String formParam = request.getParameter("muuttuja");
-		System.out.println(formParam);
+		System.out.println(formParam); //poista nämä kun olet tutustunut koodiin
 		if (formParam.length()>5){
 			sessio.setAttribute("juttu", formParam + ", pituus: " + formParam.length());
 		}
